@@ -1,0 +1,52 @@
+h1 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+
+#css {
+    background-color: red;
+    color: white;
+}
+
+table {
+    text-transform: capitalize;
+}
+
+.fieldset {
+    width: 390px;
+}
+
+.field {
+    width: 390px;
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+div {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h3 {
+    text-align: center;
+}
+
+.fiels {
+    width: 390px;
+}
+
+label {
+    margin-top: 20px;
+}
